@@ -5,6 +5,8 @@ const root = resolve(import.meta.dirname, '..');
 const readJSON = async name => JSON.parse(await readFile(resolve(root, 'source', name), 'utf8'));
 const project = (await readJSON('project.json')).project;
 const assets = await readJSON('asset-map.json');
+const optimized = await readJSON('media-optimized.json');
+const mediaURL = original => optimized.files[original]?.src || original;
 const escape = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const px = n => `${Number(n) || 0}px`;
 const cssName = s => s.replace(/[A-Z]/g, c => '-' + c.toLowerCase());
@@ -130,7 +132,7 @@ function widgetHTML(base, mobile, page) {
     if (!src) throw new Error(`Missing image ${w._id}`);
     const sx=w.w/(w.cropW || w.originalW),sy=w.h/(w.cropH || w.originalH);
     const crop={width:px(w.originalW*sx),height:px(w.originalH*sy),left:px(-(w.cropX || 0)*sx),top:px(-(w.cropY || 0)*sy)};
-    body=`<img src="${escape(src)}" alt="${escape(w.name || '')}" loading="${w.y<512?'eager':'lazy'}" decoding="async" style="${escape(style(crop))}">`;
+    body=`<img src="${escape(mediaURL(src))}" alt="${escape(w.name || '')}" loading="${w.y<512?'eager':'lazy'}" decoding="async" style="${escape(style(crop))}">`;
     if(w.lightbox?.enabled) {
       tag='button'; attrs+=` type="button" data-lightbox="${escape(src)}" aria-label="Увеличить изображение"`;
     }
@@ -138,7 +140,7 @@ function widgetHTML(base, mobile, page) {
   if(w.type==='iframe') {
     const id=w.code.match(/kinescope.io\/embed\/([^"?]+)/)[1];
     const video=assets.videos[id];
-    body=`<video data-src="${video.src}" poster="${video.poster}" aria-label="${escape(video.title)}" muted loop playsinline preload="none" disablepictureinpicture></video>`;
+    body=`<video data-src="${mediaURL(video.src)}" poster="${mediaURL(video.poster)}" aria-label="${escape(video.title)}" muted loop playsinline preload="none" disablepictureinpicture></video>`;
     classes+=' video';
   }
   const clickPage=pageFor(w.clickLink || w.clickPage);
