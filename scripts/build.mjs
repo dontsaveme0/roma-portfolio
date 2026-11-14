@@ -164,13 +164,13 @@ for(const page of project.pages) {
   const title=page.seo?.title || (page.pagePath==='4'?'Архив — Рома Жигарёв':project.title);
   const description=page.seo?.description || project.description;
   const html=`<!doctype html>
-<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>${escape(title)}</title><meta name="description" content="${escape(description)}"><link rel="icon" href="/assets/favicon.png"><meta property="og:title" content="${escape(title)}"><meta property="og:image" content="/assets/og-image.png"><link rel="preload" href="/assets/fonts/custom_157619.ttf" as="font" type="font/ttf" crossorigin><link rel="preload" href="/assets/fonts/custom_157620.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="/styles.css"><script src="/app.js" defer></script></head>
+<html lang="ru"><head><meta charset="utf-8"><script src="/analytics.js" defer></script><meta name="viewport" content="width=device-width, initial-scale=1"><title>${escape(title)}</title><meta name="description" content="${escape(description)}"><link rel="icon" href="/assets/favicon.png"><meta property="og:title" content="${escape(title)}"><meta property="og:image" content="/assets/og-image.png"><link rel="preload" href="/assets/fonts/custom_157619.ttf" as="font" type="font/ttf" crossorigin><link rel="preload" href="/assets/fonts/custom_157620.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="/styles.css"><script src="/app.js" defer></script></head>
 <body style="background:#${bg}" data-page="${page.pagePath}"><main>${views}</main><dialog class="lightbox" aria-label="Просмотр изображения"><button class="lightbox-close" autofocus aria-label="Закрыть">×</button><img alt="Изображение проекта в полном размере"></dialog></body></html>`;
   const directory=resolve(root,'dist',page.pagePath==='1'?'':page.pagePath);
   await mkdir(directory,{recursive:true});await writeFile(resolve(directory,'index.html'),html);
 }
 await cp(resolve(root,'assets'),resolve(root,'dist/assets'),{recursive:true});
-for(const file of ['app.js','styles.css']) await cp(resolve(root,file),resolve(root,'dist',file));
+for(const file of ['app.js','analytics.js','styles.css']) await cp(resolve(root,file),resolve(root,'dist',file));
 await cp(resolve(root,'CNAME'),resolve(root,'dist/CNAME'));
 await writeFile(resolve(root,'dist/.nojekyll'),'');
 console.log('Built 4 pages, desktop + mobile, with local images, fonts and video.');
