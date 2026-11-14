@@ -1,0 +1,13 @@
+{
+  "name": "roma-zhigarev-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Standalone local edition of Roma Zhigarev's portfolio",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}

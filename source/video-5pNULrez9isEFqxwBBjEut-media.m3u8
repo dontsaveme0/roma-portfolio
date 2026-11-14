@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-TARGETDURATION:5
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-MAP:URI="https://edge-ams-1.kinescopecdn.net/839ddb73-6abf-4022-a252-3da199e9be85/videos/db5649dc-9fbd-4e00-90bb-1bc5f7cb3d15/assets/0198ebec-26ef-7017-87bf-b08aea8d6fb4/1080p.mp4",BYTERANGE="803@0"
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:4,
+#EXT-X-BYTERANGE:382625@803
+https://edge-ams-1.kinescopecdn.net/839ddb73-6abf-4022-a252-3da199e9be85/videos/db5649dc-9fbd-4e00-90bb-1bc5f7cb3d15/assets/0198ebec-26ef-7017-87bf-b08aea8d6fb4/1080p.mp4?kcd=AAAAAABAr0A
+#EXTINF:4,
+#EXT-X-BYTERANGE:293043@383428
+https://edge-ams-1.kinescopecdn.net/839ddb73-6abf-4022-a252-3da199e9be85/videos/db5649dc-9fbd-4e00-90bb-1bc5f7cb3d15/assets/0198ebec-26ef-7017-87bf-b08aea8d6fb4/1080p.mp4?kcd=AAAAAABAr0A
+#EXTINF:1.25,
+#EXT-X-BYTERANGE:131436@676471
+https://edge-ams-1.kinescopecdn.net/839ddb73-6abf-4022-a252-3da199e9be85/videos/db5649dc-9fbd-4e00-90bb-1bc5f7cb3d15/assets/0198ebec-26ef-7017-87bf-b08aea8d6fb4/1080p.mp4?kcd=AAAAAACIk0A
+#EXT-X-ENDLIST

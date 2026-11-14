@@ -1,0 +1,364 @@
+{
+  "images": {
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-041b92ec-d684-4b10-bab1-ae4339ce13f4.png": "/assets/images/image-041b92ec-d684-4b10-bab1-ae4339ce13f4.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-0784de40-2ebc-45cb-8b11-7d122b97c10b.jpg": "/assets/images/image-0784de40-2ebc-45cb-8b11-7d122b97c10b.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-0802dc57-eb47-41d1-b6ca-8347043e7292.jpg": "/assets/images/image-0802dc57-eb47-41d1-b6ca-8347043e7292.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-09d90b51-3f52-44a1-aec9-b66427fc5a5a.png": "/assets/images/image-09d90b51-3f52-44a1-aec9-b66427fc5a5a.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-16ab6e43-2db7-4149-b521-1b0bf9e9adef.png": "/assets/images/image-16ab6e43-2db7-4149-b521-1b0bf9e9adef.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-17d68dc9-b51e-49cc-adef-e16365e3871c.jpg": "/assets/images/image-17d68dc9-b51e-49cc-adef-e16365e3871c.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-19eb46cf-4d81-4e77-ab23-507914a456e6.jpg": "/assets/images/image-19eb46cf-4d81-4e77-ab23-507914a456e6.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-27598eb9-4468-4b9f-ac05-c4acca41e54b.png": "/assets/images/image-27598eb9-4468-4b9f-ac05-c4acca41e54b.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-278aefb2-798b-4b9c-af7b-2e1c6ad2f1e0.jpg": "/assets/images/image-278aefb2-798b-4b9c-af7b-2e1c6ad2f1e0.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-284fcdac-aacb-409e-a92a-2471cde50be4.png": "/assets/images/image-284fcdac-aacb-409e-a92a-2471cde50be4.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-286882a2-1bf6-4fd8-a533-17474a720ad1.png": "/assets/images/image-286882a2-1bf6-4fd8-a533-17474a720ad1.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-3428f159-1088-4cba-95bc-8ac14d61e7ab.png": "/assets/images/image-3428f159-1088-4cba-95bc-8ac14d61e7ab.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-360fc60f-9dac-4046-ba08-157de30f8be7.png": "/assets/images/image-360fc60f-9dac-4046-ba08-157de30f8be7.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-398ddcdf-6966-4081-a7be-0df28479a74d.png": "/assets/images/image-398ddcdf-6966-4081-a7be-0df28479a74d.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-40cf96aa-b4e7-4a77-bbfb-89b6b87384c8.png": "/assets/images/image-40cf96aa-b4e7-4a77-bbfb-89b6b87384c8.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-414cb2ec-b5fc-4da9-921d-e89aa86aff03.jpg": "/assets/images/image-414cb2ec-b5fc-4da9-921d-e89aa86aff03.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-4563bb22-09c0-4ecb-9f47-03d2be32bacf.jpg": "/assets/images/image-4563bb22-09c0-4ecb-9f47-03d2be32bacf.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-4a54f665-9acc-41ee-b358-2729c31b1255.jpg": "/assets/images/image-4a54f665-9acc-41ee-b358-2729c31b1255.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-4cedc486-e672-4656-9d4e-0605b515c131.png": "/assets/images/image-4cedc486-e672-4656-9d4e-0605b515c131.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-4d7776b4-8381-441d-b4ef-73b353cf44cc.jpg": "/assets/images/image-4d7776b4-8381-441d-b4ef-73b353cf44cc.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-4f47c05a-ecd5-4ffb-8382-98ebe1e12c4b.png": "/assets/images/image-4f47c05a-ecd5-4ffb-8382-98ebe1e12c4b.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-5311a20e-f254-4267-a594-17d5aacb41c2.jpg": "/assets/images/image-5311a20e-f254-4267-a594-17d5aacb41c2.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-5ea681c4-8837-49f2-bf56-3358d0416a70.png": "/assets/images/image-5ea681c4-8837-49f2-bf56-3358d0416a70.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-605abe68-4bd2-481b-a7ca-18068a054a35.png": "/assets/images/image-605abe68-4bd2-481b-a7ca-18068a054a35.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-60a475ca-c34c-4392-ab42-2cbc4dd66542.png": "/assets/images/image-60a475ca-c34c-4392-ab42-2cbc4dd66542.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-6290afa4-1ad5-453b-b801-dfbc04b7bd6a.png": "/assets/images/image-6290afa4-1ad5-453b-b801-dfbc04b7bd6a.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-636d9e67-3221-46e8-a0ca-f6f5c9bbeb32.png": "/assets/images/image-636d9e67-3221-46e8-a0ca-f6f5c9bbeb32.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-63a74385-36c2-4480-90ad-918bd2afb5a3.jpg": "/assets/images/image-63a74385-36c2-4480-90ad-918bd2afb5a3.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-64f2eb94-337d-4bee-91ac-97b057dec042.png": "/assets/images/image-64f2eb94-337d-4bee-91ac-97b057dec042.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-66c72c19-012b-49ae-93e6-a2935945c61a.jpg": "/assets/images/image-66c72c19-012b-49ae-93e6-a2935945c61a.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-6f6204ce-e195-4c94-9a0c-150926b91189.jpg": "/assets/images/image-6f6204ce-e195-4c94-9a0c-150926b91189.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-71471cbd-ff11-45f8-9fde-8793e02547c5.jpg": "/assets/images/image-71471cbd-ff11-45f8-9fde-8793e02547c5.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-72229a2d-35c4-4667-9dec-153288e6f4a9.jpg": "/assets/images/image-72229a2d-35c4-4667-9dec-153288e6f4a9.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-7358a743-e130-48fc-a249-dd64f77480d5.png": "/assets/images/image-7358a743-e130-48fc-a249-dd64f77480d5.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-773e3849-78f7-4440-8bc8-3649da15f9f9.jpg": "/assets/images/image-773e3849-78f7-4440-8bc8-3649da15f9f9.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-78f18beb-855e-43ee-99be-c9bdb0dda3a1.jpg": "/assets/images/image-78f18beb-855e-43ee-99be-c9bdb0dda3a1.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-79bf06f6-919f-415c-9007-e9f8d513bde7.jpg": "/assets/images/image-79bf06f6-919f-415c-9007-e9f8d513bde7.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-7d3126eb-41a6-4b49-8fae-0dae825fd2ac.jpg": "/assets/images/image-7d3126eb-41a6-4b49-8fae-0dae825fd2ac.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-811554ab-9cbf-42e3-b953-190e960b6893.jpg": "/assets/images/image-811554ab-9cbf-42e3-b953-190e960b6893.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-90e8bf8c-06a6-4b4f-9115-f1155462dd8d.png": "/assets/images/image-90e8bf8c-06a6-4b4f-9115-f1155462dd8d.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-93eba9f9-1da4-4af9-b167-eb691c76276e.jpg": "/assets/images/image-93eba9f9-1da4-4af9-b167-eb691c76276e.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-94e8118d-6a36-4c8e-a74b-69a16956b136.png": "/assets/images/image-94e8118d-6a36-4c8e-a74b-69a16956b136.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-9a347711-dab8-4895-b246-751771a5d7f8.jpg": "/assets/images/image-9a347711-dab8-4895-b246-751771a5d7f8.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-a37fd7b8-c7eb-49d5-bcd1-293683a421d6.png": "/assets/images/image-a37fd7b8-c7eb-49d5-bcd1-293683a421d6.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-a63a4f3c-9161-459c-aef5-a7daa77d81e4.jpg": "/assets/images/image-a63a4f3c-9161-459c-aef5-a7daa77d81e4.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-ac179a04-3225-45d8-8d36-06c894282d80.jpg": "/assets/images/image-ac179a04-3225-45d8-8d36-06c894282d80.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-afba55b4-fae5-429f-b6f4-6aa91c47b8e7.jpg": "/assets/images/image-afba55b4-fae5-429f-b6f4-6aa91c47b8e7.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-b2536005-cf90-4674-a358-3a0a5c799b44.png": "/assets/images/image-b2536005-cf90-4674-a358-3a0a5c799b44.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-b31f94c8-8fec-4ff4-90ec-3c44136d6f9a.png": "/assets/images/image-b31f94c8-8fec-4ff4-90ec-3c44136d6f9a.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-b5578819-701a-4435-8603-4229297f7a37.png": "/assets/images/image-b5578819-701a-4435-8603-4229297f7a37.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-b89cb186-440f-49af-b93a-50abe028a2ad.jpg": "/assets/images/image-b89cb186-440f-49af-b93a-50abe028a2ad.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-bb18fceb-7fe4-4f74-a8c3-8d9759939b21.png": "/assets/images/image-bb18fceb-7fe4-4f74-a8c3-8d9759939b21.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-bef65969-9479-4944-8726-0786b0a096c2.png": "/assets/images/image-bef65969-9479-4944-8726-0786b0a096c2.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-c360a587-941f-4f6f-a63c-424b64d3e3f7.jpg": "/assets/images/image-c360a587-941f-4f6f-a63c-424b64d3e3f7.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-c54bd8de-0b3b-409a-8e02-ed30261fa7be.jpg": "/assets/images/image-c54bd8de-0b3b-409a-8e02-ed30261fa7be.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-d183e284-615d-4389-b06d-d26083e94329.jpg": "/assets/images/image-d183e284-615d-4389-b06d-d26083e94329.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-d24b5c86-0584-4e51-9c96-027c74509883.jpg": "/assets/images/image-d24b5c86-0584-4e51-9c96-027c74509883.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-d48e8f76-2b55-4687-8553-dce3463007b3.jpg": "/assets/images/image-d48e8f76-2b55-4687-8553-dce3463007b3.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-d7d0a5f4-eba3-474e-9fa7-034871a71886.jpg": "/assets/images/image-d7d0a5f4-eba3-474e-9fa7-034871a71886.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-d7e2b1c3-8008-45f7-9586-b5125e8ad3ed.jpg": "/assets/images/image-d7e2b1c3-8008-45f7-9586-b5125e8ad3ed.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-de55a40c-1739-4d85-83a8-3ada2d3391b1.png": "/assets/images/image-de55a40c-1739-4d85-83a8-3ada2d3391b1.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-e84d6d26-4bb0-4791-a92a-7aafdb6affa2.jpg": "/assets/images/image-e84d6d26-4bb0-4791-a92a-7aafdb6affa2.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-ef3bbd80-4d72-4c28-85ba-d1d03aeb6390.jpg": "/assets/images/image-ef3bbd80-4d72-4c28-85ba-d1d03aeb6390.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-f0a27972-b1ba-47d5-bddc-89352099da2f.png": "/assets/images/image-f0a27972-b1ba-47d5-bddc-89352099da2f.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-f15f6939-6c47-4c9e-96b2-c19a5f3d5727.jpg": "/assets/images/image-f15f6939-6c47-4c9e-96b2-c19a5f3d5727.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-f25b9a34-ef1d-4c20-8956-3c9a74d0c7a2.png": "/assets/images/image-f25b9a34-ef1d-4c20-8956-3c9a74d0c7a2.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-f447a9da-5728-4fb6-be6c-fca3666ada81.png": "/assets/images/image-f447a9da-5728-4fb6-be6c-fca3666ada81.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-f60a7e00-d290-43db-8f5c-becc21717b6c.jpg": "/assets/images/image-f60a7e00-d290-43db-8f5c-becc21717b6c.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-fa6b8eee-83ea-4875-b683-82fc830810a8.jpg": "/assets/images/image-fa6b8eee-83ea-4875-b683-82fc830810a8.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-fa818882-3e60-49e6-8ca1-07f4fec56bdc.jpg": "/assets/images/image-fa818882-3e60-49e6-8ca1-07f4fec56bdc.jpg",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-fba18156-4e57-490b-aa60-e7b142878ec3.png": "/assets/images/image-fba18156-4e57-490b-aa60-e7b142878ec3.png",
+    "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/image-fdf42f7e-dbfd-4a6e-a82e-a5001d36074b.jpg": "/assets/images/image-fdf42f7e-dbfd-4a6e-a82e-a5001d36074b.jpg"
+  },
+  "videos": {
+    "5Y5mpNau2wHvjLy11jqM9p": {
+      "src": "/assets/videos/5Y5mpNau2wHvjLy11jqM9p.mp4",
+      "poster": "/assets/videos/5Y5mpNau2wHvjLy11jqM9p.jpg",
+      "title": "Zvuk mini app",
+      "duration": 20,
+      "behaviour": {
+        "localStorage": {
+          "storage": "local"
+        },
+        "endscreen": "reset",
+        "preload": false,
+        "autoPause": false,
+        "textTrack": false,
+        "autoPlay": true,
+        "background": true,
+        "volume": 0,
+        "notifications": {
+          "goToStart": false
+        },
+        "pinchZoom": false
+      }
+    },
+    "5pNULrez9isEFqxwBBjEut": {
+      "src": "/assets/videos/5pNULrez9isEFqxwBBjEut.mp4",
+      "poster": "/assets/videos/5pNULrez9isEFqxwBBjEut.jpg",
+      "title": "Zvuk animation 4",
+      "duration": 9.233333,
+      "behaviour": {
+        "localStorage": {
+          "storage": "local"
+        },
+        "endscreen": "reset",
+        "preload": false,
+        "autoPause": false,
+        "textTrack": false,
+        "autoPlay": true,
+        "background": true,
+        "volume": 0,
+        "notifications": {
+          "goToStart": false
+        },
+        "pinchZoom": false
+      }
+    },
+    "aVdtUC49GtDeXfg2W4uHAV": {
+      "src": "/assets/videos/aVdtUC49GtDeXfg2W4uHAV.mp4",
+      "poster": "/assets/videos/aVdtUC49GtDeXfg2W4uHAV.jpg",
+      "title": "Yango Vacancies Mobile",
+      "duration": 30,
+      "behaviour": {
+        "localStorage": {
+          "storage": "local"
+        },
+        "endscreen": "reset",
+        "preload": false,
+        "autoPause": false,
+        "textTrack": false,
+        "autoPlay": true,
+        "background": true,
+        "volume": 0,
+        "notifications": {
+          "goToStart": false
+        },
+        "pinchZoom": false
+      }
+    },
+    "afmxer4FRdTt1Y3qxNHBj6": {
+      "src": "/assets/videos/afmxer4FRdTt1Y3qxNHBj6.mp4",
+      "poster": "/assets/videos/afmxer4FRdTt1Y3qxNHBj6.jpg",
+      "title": "Showreel",
+      "duration": 10,
+      "behaviour": {
+        "localStorage": {
+          "storage": "local"
+        },
+        "endscreen": "reset",
+        "preload": false,
+        "autoPause": false,
+        "textTrack": false,
+        "autoPlay": true,
+        "background": true,
+        "volume": 0,
+        "notifications": {
+          "goToStart": false
+        },
+        "pinchZoom": false
+      }
+    },
+    "ftKV17QdAYfcgiiWrBphee": {
+      "src": "/assets/videos/ftKV17QdAYfcgiiWrBphee.mp4",
+      "poster": "/assets/videos/ftKV17QdAYfcgiiWrBphee.jpg",
+      "title": "Yango Site Flow",
+      "duration": 34,
+      "behaviour": {
+        "localStorage": {
+          "storage": "local"
+        },
+        "endscreen": "reset",
+        "preload": false,
+        "autoPause": false,
+        "textTrack": false,
+        "autoPlay": true,
+        "background": true,
+        "volume": 0,
+        "notifications": {
+          "goToStart": false
+        },
+        "pinchZoom": false
+      }
+    },
+    "gMg2hkm5ik95VA6VskKXp4": {
+      "src": "/assets/videos/gMg2hkm5ik95VA6VskKXp4.mp4",
+      "poster": "/assets/videos/gMg2hkm5ik95VA6VskKXp4.jpg",
+      "title": "All Shapes",
+      "duration": 12,
+      "behaviour": {
+        "localStorage": {
+          "storage": "local"
+        },
+        "endscreen": "reset",
+        "preload": false,
+        "autoPause": false,
+        "textTrack": false,
+        "autoPlay": true,
+        "background": true,
+        "volume": 0,
+        "notifications": {
+          "goToStart": false
+        },
+        "pinchZoom": false
+      }
+    },
+    "gUvMAQ4xRWcSUFbYjyd4YN": {
+      "src": "/assets/videos/gUvMAQ4xRWcSUFbYjyd4YN.mp4",
+      "poster": "/assets/videos/gUvMAQ4xRWcSUFbYjyd4YN.jpg",
+      "title": "Icons",
+      "duration": 18,
+      "behaviour": {
+        "localStorage": {
+          "storage": "local"
+        },
+        "endscreen": "reset",
+        "preload": false,
+        "autoPause": false,
+        "textTrack": false,
+        "autoPlay": true,
+        "background": true,
+        "volume": 0,
+        "notifications": {
+          "goToStart": false
+        },
+        "pinchZoom": false
+      }
+    },
+    "phjxLkdK1LbDNu3AkzxBMi": {
+      "src": "/assets/videos/phjxLkdK1LbDNu3AkzxBMi.mp4",
+      "poster": "/assets/videos/phjxLkdK1LbDNu3AkzxBMi.jpg",
+      "title": "sad screencast",
+      "duration": 11.584,
+      "behaviour": {
+        "localStorage": {
+          "storage": "local"
+        },
+        "endscreen": "reset",
+        "preload": false,
+        "autoPause": false,
+        "textTrack": false,
+        "autoPlay": true,
+        "background": true,
+        "volume": 0,
+        "notifications": {
+          "goToStart": false
+        },
+        "pinchZoom": false
+      }
+    },
+    "rz3JecydYWH2ieNgf9J6iK": {
+      "src": "/assets/videos/rz3JecydYWH2ieNgf9J6iK.mp4",
+      "poster": "/assets/videos/rz3JecydYWH2ieNgf9J6iK.jpg",
+      "title": "Zvuk animation 1",
+      "duration": 9.233333,
+      "behaviour": {
+        "localStorage": {
+          "storage": "local"
+        },
+        "endscreen": "reset",
+        "preload": false,
+        "autoPause": false,
+        "textTrack": false,
+        "autoPlay": true,
+        "background": true,
+        "volume": 0,
+        "notifications": {
+          "goToStart": false
+        },
+        "pinchZoom": false
+      }
+    },
+    "tVPBtcSpEGzXR8sZAqQrGW": {
+      "src": "/assets/videos/tVPBtcSpEGzXR8sZAqQrGW.mp4",
+      "poster": "/assets/videos/tVPBtcSpEGzXR8sZAqQrGW.jpg",
+      "title": "Zvuk animation 2",
+      "duration": 8.9,
+      "behaviour": {
+        "localStorage": {
+          "storage": "local"
+        },
+        "endscreen": "reset",
+        "preload": false,
+        "autoPause": false,
+        "textTrack": false,
+        "autoPlay": true,
+        "background": true,
+        "volume": 0,
+        "notifications": {
+          "goToStart": false
+        },
+        "pinchZoom": false
+      }
+    },
+    "tkqhYE8Rnnco17SnPgYUrg": {
+      "src": "/assets/videos/tkqhYE8Rnnco17SnPgYUrg.mp4",
+      "poster": "/assets/videos/tkqhYE8Rnnco17SnPgYUrg.jpg",
+      "title": "1st nine",
+      "duration": 8,
+      "behaviour": {
+        "localStorage": {
+          "storage": "local"
+        },
+        "endscreen": "reset",
+        "preload": false,
+        "autoPause": false,
+        "textTrack": false,
+        "autoPlay": true,
+        "background": true,
+        "volume": 0,
+        "notifications": {
+          "goToStart": false
+        },
+        "pinchZoom": false
+      }
+    },
+    "vpkMt8R7qmrCAztj7G2jdy": {
+      "src": "/assets/videos/vpkMt8R7qmrCAztj7G2jdy.mp4",
+      "poster": "/assets/videos/vpkMt8R7qmrCAztj7G2jdy.jpg",
+      "title": "Zvuk animation 3",
+      "duration": 9.233333,
+      "behaviour": {
+        "localStorage": {
+          "storage": "local"
+        },
+        "endscreen": "reset",
+        "preload": false,
+        "autoPause": false,
+        "textTrack": false,
+        "autoPlay": true,
+        "background": true,
+        "volume": 0,
+        "notifications": {
+          "goToStart": false
+        },
+        "pinchZoom": false
+      }
+    },
+    "x77KzQnQS2CW76vfA1rKVD": {
+      "src": "/assets/videos/x77KzQnQS2CW76vfA1rKVD.mp4",
+      "poster": "/assets/videos/x77KzQnQS2CW76vfA1rKVD.jpg",
+      "title": "Yango Stories",
+      "duration": 13.45,
+      "behaviour": {
+        "localStorage": {
+          "storage": "local"
+        },
+        "endscreen": "reset",
+        "preload": false,
+        "autoPause": false,
+        "textTrack": false,
+        "autoPlay": true,
+        "background": true,
+        "volume": 0,
+        "notifications": {
+          "goToStart": false
+        },
+        "pinchZoom": false
+      }
+    }
+  }
+}

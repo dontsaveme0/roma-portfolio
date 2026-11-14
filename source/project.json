@@ -1,0 +1,553 @@
+{
+  "publicPath": "https://st-p.rmcdn1.net/d5d74ada/dist",
+  "project": {
+    "isProjectEmailPrivate": {
+      "isEnabled": false,
+      "allowedEmails": [],
+      "allowedDomains": []
+    },
+    "opts": {
+      "arrows": false,
+      "menubutton": false,
+      "sharebutton": false,
+      "pagecounter": false,
+      "endpage": false,
+      "endpagetype": "join",
+      "viewertype": "horizontal",
+      "slidein": false,
+      "scalewidth": 3600,
+      "projectinfo": false,
+      "hidden": true,
+      "allowindex": true,
+      "scalableviewer": true,
+      "lqip": false,
+      "useCustomCursor": false,
+      "controlsontop": false,
+      "phoneVerticalAlign": "top",
+      "branding": false,
+      "favicon": "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/Favicon-e0f45b4d-6e85-4107-83f8-a76ba7df39ba.png",
+      "ga_id": "",
+      "gtm_id": ""
+    },
+    "textStyles": {
+      "global": [],
+      "project": [
+        {
+          "name": "style-9c7c9c6b-0c9d-4300-a70b-8e76ea68c661",
+          "label": "H1",
+          "tag": "h1",
+          "cssProperties": {
+            "color": "22222264",
+            "fontFamily": "Roboto",
+            "fontStyle": "normal",
+            "textAlign": "left",
+            "fontSize": 48,
+            "fontWeight": 700,
+            "letterSpacing": 0,
+            "lineHeight": 60,
+            "paddingTop": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0
+          },
+          "_id": "68a7373e111bacd4f4ba4899"
+        },
+        {
+          "name": "style-02d09dd7-32e9-4fac-a9fd-69ffba53eb43",
+          "label": "H2",
+          "tag": "h2",
+          "cssProperties": {
+            "color": "22222264",
+            "fontFamily": "Georgia",
+            "fontStyle": "normal",
+            "textAlign": "left",
+            "fontSize": 24,
+            "fontWeight": 400,
+            "letterSpacing": 0,
+            "lineHeight": 30,
+            "paddingTop": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0
+          },
+          "_id": "68a7373e111bacd4f4ba489a"
+        },
+        {
+          "name": "style-41e9bb6d-9538-403b-9c11-c88b2ad4287a",
+          "label": "Text",
+          "tag": "p",
+          "cssProperties": {
+            "color": "22222264",
+            "fontFamily": "Georgia",
+            "fontStyle": "normal",
+            "textAlign": "left",
+            "fontSize": 18,
+            "fontWeight": 400,
+            "letterSpacing": 0,
+            "lineHeight": 23,
+            "paddingTop": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0
+          },
+          "_id": "68a7373e111bacd4f4ba489b"
+        },
+        {
+          "name": "style-49e8031e-abe6-4166-867e-7cc6efe2520f",
+          "label": "Caption",
+          "tag": "p",
+          "cssProperties": {
+            "color": "22222232",
+            "fontFamily": "Georgia",
+            "fontStyle": "italic",
+            "textAlign": "left",
+            "fontSize": 14,
+            "lineHeight": 18,
+            "letterSpacing": 0,
+            "fontWeight": 400,
+            "paddingTop": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingLeft": 0
+          },
+          "_id": "68a7373e111bacd4f4ba489c"
+        },
+        {
+          "name": "style-aea150f0-5463-4c88-bab8-a81bfe8839ed",
+          "label": "Body",
+          "tag": "p",
+          "cssProperties": {
+            "fontFamily": "custom_157620",
+            "fontWeight": "600",
+            "fontSize": 8,
+            "lineHeight": 10,
+            "fontStyle": "normal",
+            "color": "474a6064",
+            "textTransform": "none",
+            "textAlign": "left"
+          },
+          "_id": "68a761f3900066bff6b9764d"
+        }
+      ]
+    },
+    "listStyles": {
+      "global": [],
+      "project": []
+    },
+    "linkStyles": {
+      "global": [],
+      "project": [
+        {
+          "style": {
+            "link": {
+              "textColor": "E4FDF964",
+              "type": "None",
+              "color": "E4FDF964",
+              "size": 1,
+              "padding": 0
+            },
+            "hover": {
+              "textColor": "E4FDF93c",
+              "type": "None",
+              "color": "#0080FF64",
+              "size": 1,
+              "padding": 0
+            },
+            "current": {
+              "textColor": "#0080FF64",
+              "type": "None",
+              "color": "#0080FF64",
+              "size": 1,
+              "padding": 0
+            }
+          },
+          "name": "link-style-dc3aedb9-cf5a-476a-86c0-2f7ede7bf8c0",
+          "label": "Light Link Style (Copy)",
+          "_id": "68a7373e8c36f3f8fd8fa5c9"
+        },
+        {
+          "style": {
+            "link": {
+              "textColor": "474A6064",
+              "type": "None",
+              "color": "474A6064",
+              "size": 1,
+              "padding": 0
+            },
+            "hover": {
+              "textColor": "474A603c",
+              "type": "None",
+              "color": "474A6064",
+              "size": 1,
+              "padding": 0
+            },
+            "current": {
+              "textColor": "#0080FF64",
+              "type": "None",
+              "color": "#0080FF64",
+              "size": 1,
+              "padding": 0
+            }
+          },
+          "name": "link-1",
+          "label": "Dark Link Style",
+          "_id": "68a7373e8c36f3f8fd8fa5c9"
+        }
+      ]
+    },
+    "viewport_phone_portrait": {
+      "opts": {
+        "lqip": true
+      }
+    },
+    "_id": "68b2093d127591667ae4cdbf",
+    "num_id": 5764304,
+    "__v": 0,
+    "allow_iframe_embed": false,
+    "categories": [],
+    "changed": false,
+    "coverPid": "68a7373192d713dbf0a42f8f",
+    "creation_date": "2025-08-21T15:11:45.317Z",
+    "description": "Живу и работаю в Москве. 10 лет опыта работы в студиях. Специализируюсь на цифровом дизайне и айдентике. Умею работать самостоятельно и вести проекты с небольшой командой дизайнеров.",
+    "desktopWidth": 1024,
+    "edit_params": {
+      "fonts": [
+        {
+          "provider": "system",
+          "css_name": "Arial",
+          "name": "Arial",
+          "variations": [
+            "n4",
+            "i4",
+            "n7",
+            "i7"
+          ]
+        },
+        {
+          "provider": "system",
+          "css_name": "Courier New",
+          "name": "Courier New",
+          "variations": [
+            "n4",
+            "i4",
+            "n7",
+            "i7"
+          ]
+        },
+        {
+          "provider": "system",
+          "css_name": "Georgia",
+          "name": "Georgia",
+          "variations": [
+            "n4",
+            "i4",
+            "n7",
+            "i7"
+          ]
+        },
+        {
+          "provider": "system",
+          "css_name": "Times New Roman",
+          "name": "Times New Roman",
+          "variations": [
+            "n4",
+            "i4",
+            "n7",
+            "i7"
+          ]
+        },
+        {
+          "provider": "system",
+          "css_name": "Trebuchet MS",
+          "name": "Trebuchet MS",
+          "variations": [
+            "n4",
+            "i4",
+            "n7",
+            "i7"
+          ],
+          "hidden": true
+        },
+        {
+          "provider": "system",
+          "css_name": "Verdana",
+          "name": "Verdana",
+          "variations": [
+            "n4",
+            "i4",
+            "n7",
+            "i7"
+          ],
+          "hidden": true
+        },
+        {
+          "provider": "system",
+          "css_name": "Tahoma",
+          "name": "Tahoma",
+          "variations": [
+            "n4",
+            "n7"
+          ],
+          "hidden": true
+        },
+        {
+          "name": "Matrix",
+          "css_name": "custom_157619",
+          "css_url": "/api/fonts/68a75ab6bfbae9ab18541227/css",
+          "variations": [
+            "n7"
+          ],
+          "provider": "custom",
+          "is_personal": true,
+          "_id": "68a75ab6bfbae9ab18541227",
+          "external_css": false,
+          "hidden": null,
+          "users": [
+            "57e97d90356fce4e00205e95"
+          ]
+        },
+        {
+          "name": "Inter Display",
+          "css_name": "custom_157620",
+          "css_url": "/api/fonts/68a75b8bea9064b458c0752b/css",
+          "variations": [
+            "n6"
+          ],
+          "provider": "custom",
+          "is_personal": true,
+          "_id": "68a75b8bea9064b458c0752b",
+          "external_css": false,
+          "hidden": null,
+          "users": [
+            "57e97d90356fce4e00205e95"
+          ]
+        }
+      ],
+      "paragraph_styles": [],
+      "link_styles": []
+    },
+    "first_published": "2025-08-28T12:45:29.687Z",
+    "hasSummary": true,
+    "hasTextWidgetsV3": true,
+    "hasWidgetsWithVerticalOnscrollAnimation": false,
+    "hasYoutube": false,
+    "isArchived": false,
+    "isPrivatePages": false,
+    "isPublishedAsTemplate": false,
+    "is_mag_use_minimal_viewport": true,
+    "is_mag_use_page_order": true,
+    "is_private": false,
+    "is_published": true,
+    "last_changed": "2026-05-03T07:53:00.783Z",
+    "last_published": "2025-08-29T20:10:37.332Z",
+    "last_unpublished": "2025-08-28T12:49:49.972Z",
+    "likers": [],
+    "master_share_pid": "68a7373192d713dbf0a42f8f",
+    "pages": [
+      {
+        "seo": {
+          "title": "",
+          "description": "",
+          "keywords": "дизайнер, арт-директор, портфолио, UI/UX"
+        },
+        "custom_shares": {
+          "title": "Рома Жигарёв. Портфолио",
+          "description": "Живу и работаю в Москве. 10 лет опыта работы в студиях. Специализируюсь на цифровом дизайне и айдентике.",
+          "image": "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/Image-f63f0234-cfa9-4456-92f6-1cf2378c4cf1.png",
+          "tweet": "Рома Жигарёв. Портфолио"
+        },
+        "_id": "68a7373192d713dbf0a42f8f",
+        "mid": "68a7373192d713dbf0a42f8a",
+        "num": 1,
+        "type": "scroll",
+        "height": 4766,
+        "hidden": false,
+        "isPrivate": false,
+        "sectionscroll": false,
+        "used_autolayout": true,
+        "arrows_color": "black",
+        "num_id": 27177661,
+        "screenshot": "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/Screenshot-fecfe07b-71f3-4fb9-81e8-1f055df13470_readyscr.jpg",
+        "parentPage": null,
+        "uri": "",
+        "title": "",
+        "viewport_phone_portrait": {
+          "enabled": true,
+          "height": 8000,
+          "type": "scroll",
+          "screenshot": "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/Screenshot-e28f6f23-859a-4c5a-8ef3-d316b64f1d6a.jpg"
+        },
+        "children": [],
+        "pagePath": "1",
+        "pageNestedNum": "1",
+        "htmlUrl": "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/HtmlSnippet-5ae0c55f-6376-4212-b72d-0b528c5e42db.html"
+      },
+      {
+        "seo": {
+          "title": "Звук. Новый образ приложения",
+          "description": "Звук пришёл с нетривиальной задачей поразмышлять, каким будет рынок стриминговых приложений через несколько лет и как мог бы выглядеть их продукт, учитывая динамичность индустрии и сильную конкуренцию.",
+          "keywords": ""
+        },
+        "_id": "68af205b5073db84b8c9fbc9",
+        "mid": "68a7373192d713dbf0a42f8a",
+        "num": 2,
+        "title": "Звук",
+        "type": "scroll",
+        "height": 9016,
+        "hidden": false,
+        "isPrivate": false,
+        "sectionscroll": false,
+        "screenshot": "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/Screenshot-fecc3e5b-dd95-4f7c-89f2-db40d4afaf78_readyscr.jpg",
+        "used_autolayout": false,
+        "arrows_color": "black",
+        "parentPage": null,
+        "num_id": 27236368,
+        "uri": "zvuk",
+        "viewport_phone_portrait": {
+          "enabled": true,
+          "screenshot": "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/Screenshot-d2fc77a3-cf61-46b2-9c3d-a375266fa4aa.jpg",
+          "type": "scroll",
+          "height": 8136
+        },
+        "children": [],
+        "pagePath": "zvuk",
+        "pageNestedNum": "2",
+        "htmlUrl": "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/HtmlSnippet-56da4a7a-e17b-4564-b10e-856969ae0792.html"
+      },
+      {
+        "seo": {
+          "title": "Yango Career",
+          "description": "Yango Group — глобальная технологическая компания, которая объединяет городские сервисы — перевозки, доставку, покупки, развлечения — в единую цифровую экосистему. Выходя на зарубежные рынки, Yango хотели выглядеть большой и надёжной компанией, но сохранившей дерзкий дух стартапа.",
+          "keywords": ""
+        },
+        "_id": "68b064a4dce6d8a366c943c1",
+        "mid": "68a7373192d713dbf0a42f8a",
+        "num": 3,
+        "title": "Yango",
+        "type": "scroll",
+        "height": 10680,
+        "hidden": false,
+        "isPrivate": false,
+        "sectionscroll": false,
+        "screenshot": "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/Screenshot-37cc8f87-5ac2-4ebb-bad7-ed226fd38e3e_readyscr.jpg",
+        "used_autolayout": true,
+        "arrows_color": "black",
+        "parentPage": null,
+        "num_id": 27247125,
+        "uri": "yango",
+        "viewport_phone_portrait": {
+          "enabled": true,
+          "height": 10766,
+          "type": "scroll",
+          "screenshot": "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/Screenshot-9523f105-e8aa-4071-bc9b-5f77be985f26.jpg"
+        },
+        "children": [],
+        "pagePath": "yango",
+        "pageNestedNum": "3",
+        "htmlUrl": "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/HtmlSnippet-4e76688c-45a7-4949-8fbc-5f0573f5ee27.html"
+      },
+      {
+        "seo": {
+          "title": "",
+          "description": "",
+          "keywords": "дизайнер, арт-директор, портфолио, UI/UX"
+        },
+        "custom_shares": {
+          "title": "Рома Жигарёв. Портфолио",
+          "description": "Живу и работаю в Москве. 10 лет опыта работы в студиях. Специализируюсь на цифровом дизайне и айдентике.",
+          "image": "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/Image-f63f0234-cfa9-4456-92f6-1cf2378c4cf1.png",
+          "tweet": "Рома Жигарёв. Портфолио"
+        },
+        "_id": "68b47287116cf016b43810b5",
+        "mid": "68a7373192d713dbf0a42f8a",
+        "num": 4,
+        "title": "Main Archive",
+        "type": "scroll",
+        "height": 3384,
+        "hidden": false,
+        "isPrivate": false,
+        "sectionscroll": false,
+        "screenshot": "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/Screenshot-6596c27d-df8b-4a37-8dcd-98c13d03c134_readyscr.jpg",
+        "used_autolayout": true,
+        "viewport_phone_portrait": {
+          "enabled": true,
+          "height": 7728,
+          "type": "scroll",
+          "screenshot": "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/Screenshot-96ed99cc-242d-4bf4-a402-1e6b5d60ca6f.jpg"
+        },
+        "arrows_color": "black",
+        "parentPage": null,
+        "num_id": 27273425,
+        "children": [],
+        "pagePath": "4",
+        "pageNestedNum": "4",
+        "htmlUrl": "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/HtmlSnippet-18944c0f-23ab-407b-a443-ed772ed7e45a.html"
+      }
+    ],
+    "pages_count": 4,
+    "pass_last_changed": "2025-08-21T07:07:07.693Z",
+    "phoneWidth": 320,
+    "prevPubVersionId": "68b578f0a36b428b055b1e79",
+    "published": "2025-08-29T20:10:37.332Z",
+    "selected_for_featured": 0,
+    "setForRemoval": false,
+    "showAsNew": false,
+    "submitted_for_featured": 0,
+    "tags": [],
+    "title": "Рома Жигарёв. Портфолио",
+    "updated": "2026-05-03T07:53:01.250Z",
+    "uri": "portfolio",
+    "usedWidgetTypes": [
+      "background",
+      "iframe",
+      "text",
+      "shape",
+      "picture"
+    ],
+    "used_custom_fonts": [
+      "custom_157619",
+      "custom_157620"
+    ],
+    "used_google_fonts": [],
+    "used_typekit_fonts": [],
+    "used_typetoday_fonts": [],
+    "used_webtype_fonts": [],
+    "user": {
+      "_id": "57e97d90356fce4e00205e95",
+      "num_id": 75426261,
+      "uri": "dontsaveme0",
+      "ua": "UA-98918289-1",
+      "permissions": {
+        "can_make_mag_private_by_email": false,
+        "can_use_analytics": true,
+        "must_show_branding": false,
+        "can_use_gtm": true,
+        "white_label": true,
+        "can_use_custom_analytics": false,
+        "can_use_beta_testing": false,
+        "can_use_e_commerce": true,
+        "can_use_forms_file_upload": false,
+        "forms_file_upload_limit": 0,
+        "forms_file_upload_count": 1,
+        "allow_index": false,
+        "can_use_iframe": false
+      }
+    },
+    "version": 2,
+    "widgetAddCounter": 286,
+    "hasAnimations": true,
+    "usedAnimationTypes": {
+      "hover": true,
+      "scroll": true
+    },
+    "last_checked_domain": "romazhigarev.ru",
+    "last_checked_domain_source": "other",
+    "cover": "https://c-p.rmcdn.net/57e97d90356fce4e00205e95/5764304/Screenshot-fecfe07b-71f3-4fb9-81e8-1f055df13470_readyscr.jpg",
+    "isInternal": false
+  },
+  "isDomainViewer": true,
+  "domainForUser": false,
+  "homepageRewrite": false,
+  "isDownloadedSource": false,
+  "exportBasePath": ""
+}
